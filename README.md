@@ -8,6 +8,7 @@ A list of apt repositories to get extra software and update existing outdated so
  - [Telegram](https://launchpad.net/~atareao/+archive/ubuntu/telegram)
  - [GPU Drivers](https://launchpad.net/~graphics-drivers/+archive/ubuntu/ppa)
  - [Android Studio](https://launchpad.net/~maarten-fonville/+archive/ubuntu/android-studio)
+ - [Kdenlive](https://launchpad.net/~kdenlive/+archive/ubuntu/kdenlive-master)
 
 ## Additional Repositories
 
