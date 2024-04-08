@@ -14,13 +14,29 @@ A list of apt repositories to get extra software and update existing outdated so
 
 ## Additional Repositories
 
- - [OnlyOffice](https://helpcenter.onlyoffice.com/installation/desktop-install-ubuntu.aspx)
- - [Spotify](https://www.spotify.com/de-en/download/linux/)
- - [Google Chrome](https://www.google.com/chrome/?platform=linux)
- - [AnyDesk](http://deb.anydesk.com/howto.html)
- - [VSCode](https://code.visualstudio.com/docs/setup/linux)
+### Web Browsers
  - [Brave](https://brave.com/linux/)
- - [Discord](https://github.com/palfrey/discord-apt)
- - [JetBrains](https://github.com/JonasGroeger/jetbrains-ppa)
- - [GitHub Desktop](https://gist.github.com/berkorbay/6feda478a00b0432d13f1fc0a50467f1)
- - [VirtualBox](https://www.virtualbox.org/wiki/Linux_Downloads)
+ - [Google Chrome](https://www.google.com/chrome/?platform=linux)
+   
+### Office   
+ - [OnlyOffice](https://helpcenter.onlyoffice.com/installation/desktop-install-ubuntu.aspx)
+
+### Music
+ - [Spotify](https://www.spotify.com/de-en/download/linux/)
+
+### Remote Desktop
+ - [AnyDesk](http://deb.anydesk.com/howto.html)
+
+### Development
+ - Text Editor
+   - [VSCode](https://code.visualstudio.com/docs/setup/linux)
+ - IDE
+   - [JetBrains](https://github.com/JonasGroeger/jetbrains-ppa)
+ - Git
+   - [GitHub Desktop](https://gist.github.com/berkorbay/6feda478a00b0432d13f1fc0a50467f1)
+
+### Chat
+   - [Discord](https://github.com/palfrey/discord-apt)
+
+### Virtualization 
+  - [VirtualBox](https://www.virtualbox.org/wiki/Linux_Downloads)
