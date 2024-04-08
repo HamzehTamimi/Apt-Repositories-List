@@ -18,3 +18,4 @@ A list of apt repositories to get extra software and update existing outdated so
  - [VSCode](https://code.visualstudio.com/docs/setup/linux)
  - [Brave](https://brave.com/linux/)
  - [Discord](https://github.com/palfrey/discord-apt)
+ - [JetBrains](https://github.com/JonasGroeger/jetbrains-ppa)
