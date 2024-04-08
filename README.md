@@ -4,17 +4,32 @@ A list of apt repositories to get extra software and update existing outdated so
 
 ## PPAs
 
+### Office 
  - [LibreOffice](https://launchpad.net/~libreoffice/+archive/ubuntu/ppa)
+   
+### Chat
  - [Telegram](https://launchpad.net/~atareao/+archive/ubuntu/telegram)
+
+### Driver
  - [GPU Drivers](https://launchpad.net/~graphics-drivers/+archive/ubuntu/ppa)
- - [Android Studio](https://launchpad.net/~maarten-fonville/+archive/ubuntu/android-studio)
+
+### Development
+ - IDE
+   - [Android Studio](https://launchpad.net/~maarten-fonville/+archive/ubuntu/android-studio)
+
+### Video Editor
  - [Kdenlive](https://launchpad.net/~kdenlive/+archive/ubuntu/kdenlive-master)
+
+### Programming Language
  - [Python](https://launchpad.net/~deadsnakes/+archive/ubuntu/ppa)
+
+### Drawing
  - [Inkscape](https://launchpad.net/~inkscape.dev/+archive/ubuntu/trunk)
+
 
 ## Additional Repositories
 
-### Web Browsers
+### Web Browser
  - [Brave](https://brave.com/linux/)
  - [Google Chrome](https://www.google.com/chrome/?platform=linux)
    
