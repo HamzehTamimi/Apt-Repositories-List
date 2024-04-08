@@ -22,3 +22,4 @@ A list of apt repositories to get extra software and update existing outdated so
  - [Discord](https://github.com/palfrey/discord-apt)
  - [JetBrains](https://github.com/JonasGroeger/jetbrains-ppa)
  - [GitHub](https://gist.github.com/berkorbay/6feda478a00b0432d13f1fc0a50467f1)
+ - [VirtualBox](https://www.virtualbox.org/wiki/Linux_Downloads)
