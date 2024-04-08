@@ -29,6 +29,9 @@ A curated list of apt repositories to get extra software and update existing out
 ### Remote Desktop
  - [Remmina](https://launchpad.net/~remmina-ppa-team/+archive/ubuntu/remmina-next-daily)
 
+### Gallery
+ - [Shotwell](https://launchpad.net/~ubuntuhandbook1/+archive/ubuntu/shotwell)
+
 ## Additional Repositories
 
 ### Web Browser
