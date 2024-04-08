@@ -10,6 +10,7 @@ A list of apt repositories to get extra software and update existing outdated so
  - [Android Studio](https://launchpad.net/~maarten-fonville/+archive/ubuntu/android-studio)
  - [Kdenlive](https://launchpad.net/~kdenlive/+archive/ubuntu/kdenlive-master)
  - [Python](https://launchpad.net/~deadsnakes/+archive/ubuntu/ppa)
+ - [Inkscape](https://launchpad.net/~inkscape.dev/+archive/ubuntu/trunk)
 
 ## Additional Repositories
 
