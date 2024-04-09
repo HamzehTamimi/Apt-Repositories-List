@@ -25,6 +25,7 @@ A curated list of apt repositories to get extra software and update existing out
 
 ### Drawing
  - [Inkscape](https://launchpad.net/~inkscape.dev/+archive/ubuntu/trunk)
+ - [Krita](https://launchpad.net/~ubuntuhandbook1/+archive/ubuntu/krita)
 
 ### Remote Desktop
  - [Remmina](https://launchpad.net/~remmina-ppa-team/+archive/ubuntu/remmina-next-daily)
