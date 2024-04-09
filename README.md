@@ -40,6 +40,7 @@ A curated list of apt repositories to get extra software and update existing out
 ### Web Browser
  - [Brave](https://brave.com/linux/)
  - [Google Chrome](https://www.google.com/chrome/?platform=linux)
+ - [Opera](https://deb.opera.com/)
    
 ### Office   
  - [OnlyOffice](https://helpcenter.onlyoffice.com/installation/desktop-install-ubuntu.aspx)
