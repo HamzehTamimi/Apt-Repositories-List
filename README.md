@@ -62,6 +62,7 @@ A curated list of apt repositories to get extra software and update existing out
 
 ### Chat
    - [Discord](https://github.com/palfrey/discord-apt)
+   - [Signal](https://signal.org/download/linux/)
 
 ### Virtualization 
   - [VirtualBox](https://www.virtualbox.org/wiki/Linux_Downloads)
