@@ -32,6 +32,9 @@ A curated list of apt repositories to get extra software and update existing out
 ### Gallery
  - [Shotwell](https://launchpad.net/~ubuntuhandbook1/+archive/ubuntu/shotwell)
 
+### Web Browser
+ - [Firefox](https://launchpad.net/~mozillateam/+archive/ubuntu/ppa)
+
 ## Additional Repositories
 
 ### Web Browser
